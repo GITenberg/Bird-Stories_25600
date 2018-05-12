@@ -18,6 +18,8 @@ creator:
 description: Informational stories about the chickadee, herring gull, sandpiper, loon,
   swallow, bald eagle, crow, egret, nighthawk, passenger pigeon, screech owl, and
   bobolink.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25600#Bird-Stories
 gutenberg_bookshelf: Animals-Wild-Birds
 gutenberg_issued: '2008-05-26'
 gutenberg_type: Text
